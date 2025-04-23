@@ -809,6 +809,7 @@ p {
 }
 .job_seeker_card .resume img {
   width: auto;
+
   height: 100%;
   position: absolute;
   top: 0;
